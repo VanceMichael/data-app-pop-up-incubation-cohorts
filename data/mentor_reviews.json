@@ -1,0 +1,23 @@
+[
+  {
+    "id": "m1",
+    "team": "t0",
+    "mode": "实体",
+    "finding": "客户证据充分，资金仍缺",
+    "known_day": 32
+  },
+  {
+    "id": "m2",
+    "team": "t0",
+    "mode": "线上",
+    "finding": "退款后需补稳定客户证据",
+    "known_day": 45
+  },
+  {
+    "id": "m3",
+    "team": "t1",
+    "mode": "实体",
+    "finding": "可开始完整试营",
+    "known_day": 35
+  }
+]

@@ -1,0 +1,254 @@
+[
+  {
+    "id": "t0",
+    "cohort": 1,
+    "prior_mode": "未经营",
+    "prior_customers": 0,
+    "capital_cents": 100000
+  },
+  {
+    "id": "t1",
+    "cohort": 1,
+    "prior_mode": "线上",
+    "prior_customers": 5,
+    "capital_cents": 110000
+  },
+  {
+    "id": "t2",
+    "cohort": 1,
+    "prior_mode": "已开实体",
+    "prior_customers": 10,
+    "capital_cents": 120000
+  },
+  {
+    "id": "t3",
+    "cohort": 1,
+    "prior_mode": "未经营",
+    "prior_customers": 15,
+    "capital_cents": 130000
+  },
+  {
+    "id": "t4",
+    "cohort": 1,
+    "prior_mode": "线上",
+    "prior_customers": 20,
+    "capital_cents": 140000
+  },
+  {
+    "id": "t5",
+    "cohort": 1,
+    "prior_mode": "已开实体",
+    "prior_customers": 25,
+    "capital_cents": 150000
+  },
+  {
+    "id": "t6",
+    "cohort": 1,
+    "prior_mode": "未经营",
+    "prior_customers": 30,
+    "capital_cents": 160000
+  },
+  {
+    "id": "t7",
+    "cohort": 1,
+    "prior_mode": "线上",
+    "prior_customers": 0,
+    "capital_cents": 170000
+  },
+  {
+    "id": "t8",
+    "cohort": 1,
+    "prior_mode": "已开实体",
+    "prior_customers": 5,
+    "capital_cents": 180000
+  },
+  {
+    "id": "t9",
+    "cohort": 1,
+    "prior_mode": "未经营",
+    "prior_customers": 10,
+    "capital_cents": 190000
+  },
+  {
+    "id": "t10",
+    "cohort": 1,
+    "prior_mode": "线上",
+    "prior_customers": 15,
+    "capital_cents": 200000
+  },
+  {
+    "id": "t11",
+    "cohort": 1,
+    "prior_mode": "已开实体",
+    "prior_customers": 20,
+    "capital_cents": 210000
+  },
+  {
+    "id": "t12",
+    "cohort": 2,
+    "prior_mode": "未经营",
+    "prior_customers": 25,
+    "capital_cents": 220000
+  },
+  {
+    "id": "t13",
+    "cohort": 2,
+    "prior_mode": "线上",
+    "prior_customers": 30,
+    "capital_cents": 230000
+  },
+  {
+    "id": "t14",
+    "cohort": 2,
+    "prior_mode": "已开实体",
+    "prior_customers": 0,
+    "capital_cents": 240000
+  },
+  {
+    "id": "t15",
+    "cohort": 2,
+    "prior_mode": "未经营",
+    "prior_customers": 5,
+    "capital_cents": 250000
+  },
+  {
+    "id": "t16",
+    "cohort": 2,
+    "prior_mode": "线上",
+    "prior_customers": 10,
+    "capital_cents": 260000
+  },
+  {
+    "id": "t17",
+    "cohort": 2,
+    "prior_mode": "已开实体",
+    "prior_customers": 15,
+    "capital_cents": 270000
+  },
+  {
+    "id": "t18",
+    "cohort": 2,
+    "prior_mode": "未经营",
+    "prior_customers": 20,
+    "capital_cents": 280000
+  },
+  {
+    "id": "t19",
+    "cohort": 2,
+    "prior_mode": "线上",
+    "prior_customers": 25,
+    "capital_cents": 290000
+  },
+  {
+    "id": "t20",
+    "cohort": 2,
+    "prior_mode": "已开实体",
+    "prior_customers": 30,
+    "capital_cents": 300000
+  },
+  {
+    "id": "t21",
+    "cohort": 2,
+    "prior_mode": "未经营",
+    "prior_customers": 0,
+    "capital_cents": 310000
+  },
+  {
+    "id": "t22",
+    "cohort": 2,
+    "prior_mode": "线上",
+    "prior_customers": 5,
+    "capital_cents": 320000
+  },
+  {
+    "id": "t23",
+    "cohort": 2,
+    "prior_mode": "已开实体",
+    "prior_customers": 10,
+    "capital_cents": 330000
+  },
+  {
+    "id": "t24",
+    "cohort": 3,
+    "prior_mode": "未经营",
+    "prior_customers": 15,
+    "capital_cents": 340000
+  },
+  {
+    "id": "t25",
+    "cohort": 3,
+    "prior_mode": "线上",
+    "prior_customers": 20,
+    "capital_cents": 350000
+  },
+  {
+    "id": "t26",
+    "cohort": 3,
+    "prior_mode": "已开实体",
+    "prior_customers": 25,
+    "capital_cents": 360000
+  },
+  {
+    "id": "t27",
+    "cohort": 3,
+    "prior_mode": "未经营",
+    "prior_customers": 30,
+    "capital_cents": 370000
+  },
+  {
+    "id": "t28",
+    "cohort": 3,
+    "prior_mode": "线上",
+    "prior_customers": 0,
+    "capital_cents": 380000
+  },
+  {
+    "id": "t29",
+    "cohort": 3,
+    "prior_mode": "已开实体",
+    "prior_customers": 5,
+    "capital_cents": 390000
+  },
+  {
+    "id": "t30",
+    "cohort": 3,
+    "prior_mode": "未经营",
+    "prior_customers": 10,
+    "capital_cents": 400000
+  },
+  {
+    "id": "t31",
+    "cohort": 3,
+    "prior_mode": "线上",
+    "prior_customers": 15,
+    "capital_cents": 410000
+  },
+  {
+    "id": "t32",
+    "cohort": 3,
+    "prior_mode": "已开实体",
+    "prior_customers": 20,
+    "capital_cents": 420000
+  },
+  {
+    "id": "t33",
+    "cohort": 3,
+    "prior_mode": "未经营",
+    "prior_customers": 25,
+    "capital_cents": 430000
+  },
+  {
+    "id": "t34",
+    "cohort": 3,
+    "prior_mode": "线上",
+    "prior_customers": 30,
+    "capital_cents": 440000
+  },
+  {
+    "id": "t35",
+    "cohort": 3,
+    "prior_mode": "已开实体",
+    "prior_customers": 0,
+    "capital_cents": 450000
+  }
+]

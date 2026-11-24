@@ -1,0 +1,2176 @@
+[
+  {
+    "id": "s0",
+    "teams": [
+      "t0"
+    ],
+    "day": 5,
+    "revenue_cents": 10000,
+    "refund_cents": 0,
+    "shares": {
+      "t0": 1
+    }
+  },
+  {
+    "id": "s1",
+    "teams": [
+      "t1"
+    ],
+    "day": 5,
+    "revenue_cents": 11000,
+    "refund_cents": 0,
+    "shares": {
+      "t1": 1
+    }
+  },
+  {
+    "id": "s2",
+    "teams": [
+      "t2"
+    ],
+    "day": 5,
+    "revenue_cents": 12000,
+    "refund_cents": 0,
+    "shares": {
+      "t2": 1
+    }
+  },
+  {
+    "id": "s3",
+    "teams": [
+      "t3"
+    ],
+    "day": 5,
+    "revenue_cents": 13000,
+    "refund_cents": 0,
+    "shares": {
+      "t3": 1
+    }
+  },
+  {
+    "id": "s4",
+    "teams": [
+      "t4"
+    ],
+    "day": 5,
+    "revenue_cents": 14000,
+    "refund_cents": 0,
+    "shares": {
+      "t4": 1
+    }
+  },
+  {
+    "id": "s5",
+    "teams": [
+      "t5"
+    ],
+    "day": 5,
+    "revenue_cents": 15000,
+    "refund_cents": 0,
+    "shares": {
+      "t5": 1
+    }
+  },
+  {
+    "id": "s6",
+    "teams": [
+      "t6"
+    ],
+    "day": 35,
+    "revenue_cents": 16000,
+    "refund_cents": 0,
+    "shares": {
+      "t6": 1
+    }
+  },
+  {
+    "id": "s7",
+    "teams": [
+      "t7"
+    ],
+    "day": 35,
+    "revenue_cents": 17000,
+    "refund_cents": 0,
+    "shares": {
+      "t7": 1
+    }
+  },
+  {
+    "id": "s8",
+    "teams": [
+      "t8"
+    ],
+    "day": 35,
+    "revenue_cents": 18000,
+    "refund_cents": 0,
+    "shares": {
+      "t8": 1
+    }
+  },
+  {
+    "id": "s9",
+    "teams": [
+      "t9"
+    ],
+    "day": 35,
+    "revenue_cents": 10000,
+    "refund_cents": 0,
+    "shares": {
+      "t9": 1
+    }
+  },
+  {
+    "id": "s10",
+    "teams": [
+      "t10"
+    ],
+    "day": 35,
+    "revenue_cents": 11000,
+    "refund_cents": 0,
+    "shares": {
+      "t10": 1
+    }
+  },
+  {
+    "id": "s11",
+    "teams": [
+      "t11"
+    ],
+    "day": 35,
+    "revenue_cents": 12000,
+    "refund_cents": 0,
+    "shares": {
+      "t11": 1
+    }
+  },
+  {
+    "id": "s12",
+    "teams": [
+      "t12"
+    ],
+    "day": 65,
+    "revenue_cents": 13000,
+    "refund_cents": 0,
+    "shares": {
+      "t12": 1
+    }
+  },
+  {
+    "id": "s13",
+    "teams": [
+      "t13"
+    ],
+    "day": 65,
+    "revenue_cents": 14000,
+    "refund_cents": 0,
+    "shares": {
+      "t13": 1
+    }
+  },
+  {
+    "id": "s14",
+    "teams": [
+      "t14"
+    ],
+    "day": 65,
+    "revenue_cents": 15000,
+    "refund_cents": 0,
+    "shares": {
+      "t14": 1
+    }
+  },
+  {
+    "id": "s15",
+    "teams": [
+      "t15"
+    ],
+    "day": 65,
+    "revenue_cents": 16000,
+    "refund_cents": 0,
+    "shares": {
+      "t15": 1
+    }
+  },
+  {
+    "id": "s16",
+    "teams": [
+      "t16"
+    ],
+    "day": 65,
+    "revenue_cents": 17000,
+    "refund_cents": 0,
+    "shares": {
+      "t16": 1
+    }
+  },
+  {
+    "id": "s17",
+    "teams": [
+      "t17"
+    ],
+    "day": 65,
+    "revenue_cents": 18000,
+    "refund_cents": 0,
+    "shares": {
+      "t17": 1
+    }
+  },
+  {
+    "id": "s18",
+    "teams": [
+      "t18"
+    ],
+    "day": 95,
+    "revenue_cents": 10000,
+    "refund_cents": 0,
+    "shares": {
+      "t18": 1
+    }
+  },
+  {
+    "id": "s19",
+    "teams": [
+      "t19"
+    ],
+    "day": 95,
+    "revenue_cents": 11000,
+    "refund_cents": 0,
+    "shares": {
+      "t19": 1
+    }
+  },
+  {
+    "id": "s20",
+    "teams": [
+      "t20"
+    ],
+    "day": 95,
+    "revenue_cents": 12000,
+    "refund_cents": 0,
+    "shares": {
+      "t20": 1
+    }
+  },
+  {
+    "id": "s21",
+    "teams": [
+      "t21"
+    ],
+    "day": 95,
+    "revenue_cents": 13000,
+    "refund_cents": 0,
+    "shares": {
+      "t21": 1
+    }
+  },
+  {
+    "id": "s22",
+    "teams": [
+      "t22"
+    ],
+    "day": 95,
+    "revenue_cents": 14000,
+    "refund_cents": 0,
+    "shares": {
+      "t22": 1
+    }
+  },
+  {
+    "id": "s23",
+    "teams": [
+      "t23"
+    ],
+    "day": 95,
+    "revenue_cents": 15000,
+    "refund_cents": 0,
+    "shares": {
+      "t23": 1
+    }
+  },
+  {
+    "id": "s24",
+    "teams": [
+      "t24"
+    ],
+    "day": 125,
+    "revenue_cents": 16000,
+    "refund_cents": 0,
+    "shares": {
+      "t24": 1
+    }
+  },
+  {
+    "id": "s25",
+    "teams": [
+      "t25"
+    ],
+    "day": 125,
+    "revenue_cents": 17000,
+    "refund_cents": 0,
+    "shares": {
+      "t25": 1
+    }
+  },
+  {
+    "id": "s26",
+    "teams": [
+      "t26"
+    ],
+    "day": 125,
+    "revenue_cents": 18000,
+    "refund_cents": 0,
+    "shares": {
+      "t26": 1
+    }
+  },
+  {
+    "id": "s27",
+    "teams": [
+      "t27"
+    ],
+    "day": 125,
+    "revenue_cents": 10000,
+    "refund_cents": 0,
+    "shares": {
+      "t27": 1
+    }
+  },
+  {
+    "id": "s28",
+    "teams": [
+      "t28"
+    ],
+    "day": 125,
+    "revenue_cents": 11000,
+    "refund_cents": 0,
+    "shares": {
+      "t28": 1
+    }
+  },
+  {
+    "id": "s29",
+    "teams": [
+      "t29"
+    ],
+    "day": 125,
+    "revenue_cents": 12000,
+    "refund_cents": 0,
+    "shares": {
+      "t29": 1
+    }
+  },
+  {
+    "id": "s30",
+    "teams": [
+      "t30"
+    ],
+    "day": 155,
+    "revenue_cents": 13000,
+    "refund_cents": 0,
+    "shares": {
+      "t30": 1
+    }
+  },
+  {
+    "id": "s31",
+    "teams": [
+      "t31"
+    ],
+    "day": 155,
+    "revenue_cents": 14000,
+    "refund_cents": 0,
+    "shares": {
+      "t31": 1
+    }
+  },
+  {
+    "id": "s32",
+    "teams": [
+      "t32"
+    ],
+    "day": 155,
+    "revenue_cents": 15000,
+    "refund_cents": 0,
+    "shares": {
+      "t32": 1
+    }
+  },
+  {
+    "id": "s33",
+    "teams": [
+      "t33"
+    ],
+    "day": 155,
+    "revenue_cents": 16000,
+    "refund_cents": 0,
+    "shares": {
+      "t33": 1
+    }
+  },
+  {
+    "id": "s34",
+    "teams": [
+      "t34"
+    ],
+    "day": 155,
+    "revenue_cents": 17000,
+    "refund_cents": 0,
+    "shares": {
+      "t34": 1
+    }
+  },
+  {
+    "id": "s35",
+    "teams": [
+      "t35"
+    ],
+    "day": 155,
+    "revenue_cents": 18000,
+    "refund_cents": 0,
+    "shares": {
+      "t35": 1
+    }
+  },
+  {
+    "id": "s36",
+    "teams": [
+      "t0"
+    ],
+    "day": 6,
+    "revenue_cents": 10000,
+    "refund_cents": 0,
+    "shares": {
+      "t0": 1
+    }
+  },
+  {
+    "id": "s37",
+    "teams": [
+      "t1"
+    ],
+    "day": 6,
+    "revenue_cents": 11000,
+    "refund_cents": 0,
+    "shares": {
+      "t1": 1
+    }
+  },
+  {
+    "id": "s38",
+    "teams": [
+      "t2"
+    ],
+    "day": 6,
+    "revenue_cents": 12000,
+    "refund_cents": 0,
+    "shares": {
+      "t2": 1
+    }
+  },
+  {
+    "id": "s39",
+    "teams": [
+      "t3"
+    ],
+    "day": 6,
+    "revenue_cents": 13000,
+    "refund_cents": 0,
+    "shares": {
+      "t3": 1
+    }
+  },
+  {
+    "id": "s40",
+    "teams": [
+      "t4"
+    ],
+    "day": 6,
+    "revenue_cents": 14000,
+    "refund_cents": 0,
+    "shares": {
+      "t4": 1
+    }
+  },
+  {
+    "id": "s41",
+    "teams": [
+      "t5"
+    ],
+    "day": 6,
+    "revenue_cents": 15000,
+    "refund_cents": 0,
+    "shares": {
+      "t5": 1
+    }
+  },
+  {
+    "id": "s42",
+    "teams": [
+      "t6"
+    ],
+    "day": 36,
+    "revenue_cents": 16000,
+    "refund_cents": 0,
+    "shares": {
+      "t6": 1
+    }
+  },
+  {
+    "id": "s43",
+    "teams": [
+      "t7"
+    ],
+    "day": 36,
+    "revenue_cents": 17000,
+    "refund_cents": 0,
+    "shares": {
+      "t7": 1
+    }
+  },
+  {
+    "id": "s44",
+    "teams": [
+      "t8"
+    ],
+    "day": 36,
+    "revenue_cents": 18000,
+    "refund_cents": 0,
+    "shares": {
+      "t8": 1
+    }
+  },
+  {
+    "id": "s45",
+    "teams": [
+      "t9"
+    ],
+    "day": 36,
+    "revenue_cents": 10000,
+    "refund_cents": 0,
+    "shares": {
+      "t9": 1
+    }
+  },
+  {
+    "id": "s46",
+    "teams": [
+      "t10"
+    ],
+    "day": 36,
+    "revenue_cents": 11000,
+    "refund_cents": 0,
+    "shares": {
+      "t10": 1
+    }
+  },
+  {
+    "id": "s47",
+    "teams": [
+      "t11"
+    ],
+    "day": 36,
+    "revenue_cents": 12000,
+    "refund_cents": 0,
+    "shares": {
+      "t11": 1
+    }
+  },
+  {
+    "id": "s48",
+    "teams": [
+      "t12"
+    ],
+    "day": 66,
+    "revenue_cents": 13000,
+    "refund_cents": 0,
+    "shares": {
+      "t12": 1
+    }
+  },
+  {
+    "id": "s49",
+    "teams": [
+      "t13"
+    ],
+    "day": 66,
+    "revenue_cents": 14000,
+    "refund_cents": 0,
+    "shares": {
+      "t13": 1
+    }
+  },
+  {
+    "id": "s50",
+    "teams": [
+      "t14"
+    ],
+    "day": 66,
+    "revenue_cents": 15000,
+    "refund_cents": 0,
+    "shares": {
+      "t14": 1
+    }
+  },
+  {
+    "id": "s51",
+    "teams": [
+      "t15"
+    ],
+    "day": 66,
+    "revenue_cents": 16000,
+    "refund_cents": 0,
+    "shares": {
+      "t15": 1
+    }
+  },
+  {
+    "id": "s52",
+    "teams": [
+      "t16"
+    ],
+    "day": 66,
+    "revenue_cents": 17000,
+    "refund_cents": 0,
+    "shares": {
+      "t16": 1
+    }
+  },
+  {
+    "id": "s53",
+    "teams": [
+      "t17"
+    ],
+    "day": 66,
+    "revenue_cents": 18000,
+    "refund_cents": 0,
+    "shares": {
+      "t17": 1
+    }
+  },
+  {
+    "id": "s54",
+    "teams": [
+      "t18"
+    ],
+    "day": 96,
+    "revenue_cents": 10000,
+    "refund_cents": 0,
+    "shares": {
+      "t18": 1
+    }
+  },
+  {
+    "id": "s55",
+    "teams": [
+      "t19"
+    ],
+    "day": 96,
+    "revenue_cents": 11000,
+    "refund_cents": 0,
+    "shares": {
+      "t19": 1
+    }
+  },
+  {
+    "id": "s56",
+    "teams": [
+      "t20"
+    ],
+    "day": 96,
+    "revenue_cents": 12000,
+    "refund_cents": 0,
+    "shares": {
+      "t20": 1
+    }
+  },
+  {
+    "id": "s57",
+    "teams": [
+      "t21"
+    ],
+    "day": 96,
+    "revenue_cents": 13000,
+    "refund_cents": 0,
+    "shares": {
+      "t21": 1
+    }
+  },
+  {
+    "id": "s58",
+    "teams": [
+      "t22"
+    ],
+    "day": 96,
+    "revenue_cents": 14000,
+    "refund_cents": 0,
+    "shares": {
+      "t22": 1
+    }
+  },
+  {
+    "id": "s59",
+    "teams": [
+      "t23"
+    ],
+    "day": 96,
+    "revenue_cents": 15000,
+    "refund_cents": 0,
+    "shares": {
+      "t23": 1
+    }
+  },
+  {
+    "id": "s60",
+    "teams": [
+      "t24"
+    ],
+    "day": 126,
+    "revenue_cents": 16000,
+    "refund_cents": 0,
+    "shares": {
+      "t24": 1
+    }
+  },
+  {
+    "id": "s61",
+    "teams": [
+      "t25"
+    ],
+    "day": 126,
+    "revenue_cents": 17000,
+    "refund_cents": 0,
+    "shares": {
+      "t25": 1
+    }
+  },
+  {
+    "id": "s62",
+    "teams": [
+      "t26"
+    ],
+    "day": 126,
+    "revenue_cents": 18000,
+    "refund_cents": 0,
+    "shares": {
+      "t26": 1
+    }
+  },
+  {
+    "id": "s63",
+    "teams": [
+      "t27"
+    ],
+    "day": 126,
+    "revenue_cents": 10000,
+    "refund_cents": 0,
+    "shares": {
+      "t27": 1
+    }
+  },
+  {
+    "id": "s64",
+    "teams": [
+      "t28"
+    ],
+    "day": 126,
+    "revenue_cents": 11000,
+    "refund_cents": 0,
+    "shares": {
+      "t28": 1
+    }
+  },
+  {
+    "id": "s65",
+    "teams": [
+      "t29"
+    ],
+    "day": 126,
+    "revenue_cents": 12000,
+    "refund_cents": 0,
+    "shares": {
+      "t29": 1
+    }
+  },
+  {
+    "id": "s66",
+    "teams": [
+      "t30"
+    ],
+    "day": 156,
+    "revenue_cents": 13000,
+    "refund_cents": 0,
+    "shares": {
+      "t30": 1
+    }
+  },
+  {
+    "id": "s67",
+    "teams": [
+      "t31"
+    ],
+    "day": 156,
+    "revenue_cents": 14000,
+    "refund_cents": 0,
+    "shares": {
+      "t31": 1
+    }
+  },
+  {
+    "id": "s68",
+    "teams": [
+      "t32"
+    ],
+    "day": 156,
+    "revenue_cents": 15000,
+    "refund_cents": 0,
+    "shares": {
+      "t32": 1
+    }
+  },
+  {
+    "id": "s69",
+    "teams": [
+      "t33"
+    ],
+    "day": 156,
+    "revenue_cents": 16000,
+    "refund_cents": 0,
+    "shares": {
+      "t33": 1
+    }
+  },
+  {
+    "id": "s70",
+    "teams": [
+      "t34"
+    ],
+    "day": 156,
+    "revenue_cents": 17000,
+    "refund_cents": 0,
+    "shares": {
+      "t34": 1
+    }
+  },
+  {
+    "id": "s71",
+    "teams": [
+      "t35"
+    ],
+    "day": 156,
+    "revenue_cents": 18000,
+    "refund_cents": 0,
+    "shares": {
+      "t35": 1
+    }
+  },
+  {
+    "id": "s72",
+    "teams": [
+      "t0"
+    ],
+    "day": 7,
+    "revenue_cents": 10000,
+    "refund_cents": 0,
+    "shares": {
+      "t0": 1
+    }
+  },
+  {
+    "id": "s73",
+    "teams": [
+      "t1"
+    ],
+    "day": 7,
+    "revenue_cents": 11000,
+    "refund_cents": 0,
+    "shares": {
+      "t1": 1
+    }
+  },
+  {
+    "id": "s74",
+    "teams": [
+      "t2"
+    ],
+    "day": 7,
+    "revenue_cents": 12000,
+    "refund_cents": 0,
+    "shares": {
+      "t2": 1
+    }
+  },
+  {
+    "id": "s75",
+    "teams": [
+      "t3"
+    ],
+    "day": 7,
+    "revenue_cents": 13000,
+    "refund_cents": 0,
+    "shares": {
+      "t3": 1
+    }
+  },
+  {
+    "id": "s76",
+    "teams": [
+      "t4"
+    ],
+    "day": 7,
+    "revenue_cents": 14000,
+    "refund_cents": 0,
+    "shares": {
+      "t4": 1
+    }
+  },
+  {
+    "id": "s77",
+    "teams": [
+      "t5"
+    ],
+    "day": 7,
+    "revenue_cents": 15000,
+    "refund_cents": 0,
+    "shares": {
+      "t5": 1
+    }
+  },
+  {
+    "id": "s78",
+    "teams": [
+      "t6"
+    ],
+    "day": 37,
+    "revenue_cents": 16000,
+    "refund_cents": 0,
+    "shares": {
+      "t6": 1
+    }
+  },
+  {
+    "id": "s79",
+    "teams": [
+      "t7"
+    ],
+    "day": 37,
+    "revenue_cents": 17000,
+    "refund_cents": 0,
+    "shares": {
+      "t7": 1
+    }
+  },
+  {
+    "id": "s80",
+    "teams": [
+      "t8"
+    ],
+    "day": 37,
+    "revenue_cents": 18000,
+    "refund_cents": 0,
+    "shares": {
+      "t8": 1
+    }
+  },
+  {
+    "id": "s81",
+    "teams": [
+      "t9"
+    ],
+    "day": 37,
+    "revenue_cents": 10000,
+    "refund_cents": 0,
+    "shares": {
+      "t9": 1
+    }
+  },
+  {
+    "id": "s82",
+    "teams": [
+      "t10"
+    ],
+    "day": 37,
+    "revenue_cents": 11000,
+    "refund_cents": 0,
+    "shares": {
+      "t10": 1
+    }
+  },
+  {
+    "id": "s83",
+    "teams": [
+      "t11"
+    ],
+    "day": 37,
+    "revenue_cents": 12000,
+    "refund_cents": 0,
+    "shares": {
+      "t11": 1
+    }
+  },
+  {
+    "id": "s84",
+    "teams": [
+      "t12"
+    ],
+    "day": 67,
+    "revenue_cents": 13000,
+    "refund_cents": 0,
+    "shares": {
+      "t12": 1
+    }
+  },
+  {
+    "id": "s85",
+    "teams": [
+      "t13"
+    ],
+    "day": 67,
+    "revenue_cents": 14000,
+    "refund_cents": 0,
+    "shares": {
+      "t13": 1
+    }
+  },
+  {
+    "id": "s86",
+    "teams": [
+      "t14"
+    ],
+    "day": 67,
+    "revenue_cents": 15000,
+    "refund_cents": 0,
+    "shares": {
+      "t14": 1
+    }
+  },
+  {
+    "id": "s87",
+    "teams": [
+      "t15"
+    ],
+    "day": 67,
+    "revenue_cents": 16000,
+    "refund_cents": 0,
+    "shares": {
+      "t15": 1
+    }
+  },
+  {
+    "id": "s88",
+    "teams": [
+      "t16"
+    ],
+    "day": 67,
+    "revenue_cents": 17000,
+    "refund_cents": 0,
+    "shares": {
+      "t16": 1
+    }
+  },
+  {
+    "id": "s89",
+    "teams": [
+      "t17"
+    ],
+    "day": 67,
+    "revenue_cents": 18000,
+    "refund_cents": 0,
+    "shares": {
+      "t17": 1
+    }
+  },
+  {
+    "id": "s90",
+    "teams": [
+      "t18"
+    ],
+    "day": 97,
+    "revenue_cents": 10000,
+    "refund_cents": 0,
+    "shares": {
+      "t18": 1
+    }
+  },
+  {
+    "id": "s91",
+    "teams": [
+      "t19"
+    ],
+    "day": 97,
+    "revenue_cents": 11000,
+    "refund_cents": 0,
+    "shares": {
+      "t19": 1
+    }
+  },
+  {
+    "id": "s92",
+    "teams": [
+      "t20"
+    ],
+    "day": 97,
+    "revenue_cents": 12000,
+    "refund_cents": 0,
+    "shares": {
+      "t20": 1
+    }
+  },
+  {
+    "id": "s93",
+    "teams": [
+      "t21"
+    ],
+    "day": 97,
+    "revenue_cents": 13000,
+    "refund_cents": 0,
+    "shares": {
+      "t21": 1
+    }
+  },
+  {
+    "id": "s94",
+    "teams": [
+      "t22"
+    ],
+    "day": 97,
+    "revenue_cents": 14000,
+    "refund_cents": 0,
+    "shares": {
+      "t22": 1
+    }
+  },
+  {
+    "id": "s95",
+    "teams": [
+      "t23"
+    ],
+    "day": 97,
+    "revenue_cents": 15000,
+    "refund_cents": 0,
+    "shares": {
+      "t23": 1
+    }
+  },
+  {
+    "id": "s96",
+    "teams": [
+      "t24"
+    ],
+    "day": 127,
+    "revenue_cents": 16000,
+    "refund_cents": 0,
+    "shares": {
+      "t24": 1
+    }
+  },
+  {
+    "id": "s97",
+    "teams": [
+      "t25"
+    ],
+    "day": 127,
+    "revenue_cents": 17000,
+    "refund_cents": 0,
+    "shares": {
+      "t25": 1
+    }
+  },
+  {
+    "id": "s98",
+    "teams": [
+      "t26"
+    ],
+    "day": 127,
+    "revenue_cents": 18000,
+    "refund_cents": 0,
+    "shares": {
+      "t26": 1
+    }
+  },
+  {
+    "id": "s99",
+    "teams": [
+      "t27"
+    ],
+    "day": 127,
+    "revenue_cents": 10000,
+    "refund_cents": 0,
+    "shares": {
+      "t27": 1
+    }
+  },
+  {
+    "id": "s100",
+    "teams": [
+      "t28"
+    ],
+    "day": 127,
+    "revenue_cents": 11000,
+    "refund_cents": 0,
+    "shares": {
+      "t28": 1
+    }
+  },
+  {
+    "id": "s101",
+    "teams": [
+      "t29"
+    ],
+    "day": 127,
+    "revenue_cents": 12000,
+    "refund_cents": 0,
+    "shares": {
+      "t29": 1
+    }
+  },
+  {
+    "id": "s102",
+    "teams": [
+      "t30"
+    ],
+    "day": 157,
+    "revenue_cents": 13000,
+    "refund_cents": 0,
+    "shares": {
+      "t30": 1
+    }
+  },
+  {
+    "id": "s103",
+    "teams": [
+      "t31"
+    ],
+    "day": 157,
+    "revenue_cents": 14000,
+    "refund_cents": 0,
+    "shares": {
+      "t31": 1
+    }
+  },
+  {
+    "id": "s104",
+    "teams": [
+      "t32"
+    ],
+    "day": 157,
+    "revenue_cents": 15000,
+    "refund_cents": 0,
+    "shares": {
+      "t32": 1
+    }
+  },
+  {
+    "id": "s105",
+    "teams": [
+      "t33"
+    ],
+    "day": 157,
+    "revenue_cents": 16000,
+    "refund_cents": 0,
+    "shares": {
+      "t33": 1
+    }
+  },
+  {
+    "id": "s106",
+    "teams": [
+      "t34"
+    ],
+    "day": 157,
+    "revenue_cents": 17000,
+    "refund_cents": 0,
+    "shares": {
+      "t34": 1
+    }
+  },
+  {
+    "id": "s107",
+    "teams": [
+      "t35"
+    ],
+    "day": 157,
+    "revenue_cents": 18000,
+    "refund_cents": 0,
+    "shares": {
+      "t35": 1
+    }
+  },
+  {
+    "id": "s108",
+    "teams": [
+      "t0"
+    ],
+    "day": 8,
+    "revenue_cents": 10000,
+    "refund_cents": 0,
+    "shares": {
+      "t0": 1
+    }
+  },
+  {
+    "id": "s109",
+    "teams": [
+      "t1"
+    ],
+    "day": 8,
+    "revenue_cents": 11000,
+    "refund_cents": 0,
+    "shares": {
+      "t1": 1
+    }
+  },
+  {
+    "id": "s110",
+    "teams": [
+      "t2"
+    ],
+    "day": 8,
+    "revenue_cents": 12000,
+    "refund_cents": 0,
+    "shares": {
+      "t2": 1
+    }
+  },
+  {
+    "id": "s111",
+    "teams": [
+      "t3"
+    ],
+    "day": 8,
+    "revenue_cents": 13000,
+    "refund_cents": 0,
+    "shares": {
+      "t3": 1
+    }
+  },
+  {
+    "id": "s112",
+    "teams": [
+      "t4"
+    ],
+    "day": 8,
+    "revenue_cents": 14000,
+    "refund_cents": 0,
+    "shares": {
+      "t4": 1
+    }
+  },
+  {
+    "id": "s113",
+    "teams": [
+      "t5"
+    ],
+    "day": 8,
+    "revenue_cents": 15000,
+    "refund_cents": 0,
+    "shares": {
+      "t5": 1
+    }
+  },
+  {
+    "id": "s114",
+    "teams": [
+      "t6"
+    ],
+    "day": 38,
+    "revenue_cents": 16000,
+    "refund_cents": 0,
+    "shares": {
+      "t6": 1
+    }
+  },
+  {
+    "id": "s115",
+    "teams": [
+      "t7"
+    ],
+    "day": 38,
+    "revenue_cents": 17000,
+    "refund_cents": 0,
+    "shares": {
+      "t7": 1
+    }
+  },
+  {
+    "id": "s116",
+    "teams": [
+      "t8"
+    ],
+    "day": 38,
+    "revenue_cents": 18000,
+    "refund_cents": 0,
+    "shares": {
+      "t8": 1
+    }
+  },
+  {
+    "id": "s117",
+    "teams": [
+      "t9"
+    ],
+    "day": 38,
+    "revenue_cents": 10000,
+    "refund_cents": 0,
+    "shares": {
+      "t9": 1
+    }
+  },
+  {
+    "id": "s118",
+    "teams": [
+      "t10"
+    ],
+    "day": 38,
+    "revenue_cents": 11000,
+    "refund_cents": 0,
+    "shares": {
+      "t10": 1
+    }
+  },
+  {
+    "id": "s119",
+    "teams": [
+      "t11"
+    ],
+    "day": 38,
+    "revenue_cents": 12000,
+    "refund_cents": 0,
+    "shares": {
+      "t11": 1
+    }
+  },
+  {
+    "id": "s120",
+    "teams": [
+      "t12"
+    ],
+    "day": 68,
+    "revenue_cents": 13000,
+    "refund_cents": 0,
+    "shares": {
+      "t12": 1
+    }
+  },
+  {
+    "id": "s121",
+    "teams": [
+      "t13"
+    ],
+    "day": 68,
+    "revenue_cents": 14000,
+    "refund_cents": 0,
+    "shares": {
+      "t13": 1
+    }
+  },
+  {
+    "id": "s122",
+    "teams": [
+      "t14"
+    ],
+    "day": 68,
+    "revenue_cents": 15000,
+    "refund_cents": 0,
+    "shares": {
+      "t14": 1
+    }
+  },
+  {
+    "id": "s123",
+    "teams": [
+      "t15"
+    ],
+    "day": 68,
+    "revenue_cents": 16000,
+    "refund_cents": 0,
+    "shares": {
+      "t15": 1
+    }
+  },
+  {
+    "id": "s124",
+    "teams": [
+      "t16"
+    ],
+    "day": 68,
+    "revenue_cents": 17000,
+    "refund_cents": 0,
+    "shares": {
+      "t16": 1
+    }
+  },
+  {
+    "id": "s125",
+    "teams": [
+      "t17"
+    ],
+    "day": 68,
+    "revenue_cents": 18000,
+    "refund_cents": 0,
+    "shares": {
+      "t17": 1
+    }
+  },
+  {
+    "id": "s126",
+    "teams": [
+      "t18"
+    ],
+    "day": 98,
+    "revenue_cents": 10000,
+    "refund_cents": 0,
+    "shares": {
+      "t18": 1
+    }
+  },
+  {
+    "id": "s127",
+    "teams": [
+      "t19"
+    ],
+    "day": 98,
+    "revenue_cents": 11000,
+    "refund_cents": 0,
+    "shares": {
+      "t19": 1
+    }
+  },
+  {
+    "id": "s128",
+    "teams": [
+      "t20"
+    ],
+    "day": 98,
+    "revenue_cents": 12000,
+    "refund_cents": 0,
+    "shares": {
+      "t20": 1
+    }
+  },
+  {
+    "id": "s129",
+    "teams": [
+      "t21"
+    ],
+    "day": 98,
+    "revenue_cents": 13000,
+    "refund_cents": 0,
+    "shares": {
+      "t21": 1
+    }
+  },
+  {
+    "id": "s130",
+    "teams": [
+      "t22"
+    ],
+    "day": 98,
+    "revenue_cents": 14000,
+    "refund_cents": 0,
+    "shares": {
+      "t22": 1
+    }
+  },
+  {
+    "id": "s131",
+    "teams": [
+      "t23"
+    ],
+    "day": 98,
+    "revenue_cents": 15000,
+    "refund_cents": 0,
+    "shares": {
+      "t23": 1
+    }
+  },
+  {
+    "id": "s132",
+    "teams": [
+      "t24"
+    ],
+    "day": 128,
+    "revenue_cents": 16000,
+    "refund_cents": 0,
+    "shares": {
+      "t24": 1
+    }
+  },
+  {
+    "id": "s133",
+    "teams": [
+      "t25"
+    ],
+    "day": 128,
+    "revenue_cents": 17000,
+    "refund_cents": 0,
+    "shares": {
+      "t25": 1
+    }
+  },
+  {
+    "id": "s134",
+    "teams": [
+      "t26"
+    ],
+    "day": 128,
+    "revenue_cents": 18000,
+    "refund_cents": 0,
+    "shares": {
+      "t26": 1
+    }
+  },
+  {
+    "id": "s135",
+    "teams": [
+      "t27"
+    ],
+    "day": 128,
+    "revenue_cents": 10000,
+    "refund_cents": 0,
+    "shares": {
+      "t27": 1
+    }
+  },
+  {
+    "id": "s136",
+    "teams": [
+      "t28"
+    ],
+    "day": 128,
+    "revenue_cents": 11000,
+    "refund_cents": 0,
+    "shares": {
+      "t28": 1
+    }
+  },
+  {
+    "id": "s137",
+    "teams": [
+      "t29"
+    ],
+    "day": 128,
+    "revenue_cents": 12000,
+    "refund_cents": 0,
+    "shares": {
+      "t29": 1
+    }
+  },
+  {
+    "id": "s138",
+    "teams": [
+      "t30"
+    ],
+    "day": 158,
+    "revenue_cents": 13000,
+    "refund_cents": 0,
+    "shares": {
+      "t30": 1
+    }
+  },
+  {
+    "id": "s139",
+    "teams": [
+      "t31"
+    ],
+    "day": 158,
+    "revenue_cents": 14000,
+    "refund_cents": 0,
+    "shares": {
+      "t31": 1
+    }
+  },
+  {
+    "id": "s140",
+    "teams": [
+      "t32"
+    ],
+    "day": 158,
+    "revenue_cents": 15000,
+    "refund_cents": 0,
+    "shares": {
+      "t32": 1
+    }
+  },
+  {
+    "id": "s141",
+    "teams": [
+      "t33"
+    ],
+    "day": 158,
+    "revenue_cents": 16000,
+    "refund_cents": 0,
+    "shares": {
+      "t33": 1
+    }
+  },
+  {
+    "id": "s142",
+    "teams": [
+      "t34"
+    ],
+    "day": 158,
+    "revenue_cents": 17000,
+    "refund_cents": 0,
+    "shares": {
+      "t34": 1
+    }
+  },
+  {
+    "id": "s143",
+    "teams": [
+      "t35"
+    ],
+    "day": 158,
+    "revenue_cents": 18000,
+    "refund_cents": 0,
+    "shares": {
+      "t35": 1
+    }
+  },
+  {
+    "id": "s144",
+    "teams": [
+      "t0"
+    ],
+    "day": 9,
+    "revenue_cents": 10000,
+    "refund_cents": 0,
+    "shares": {
+      "t0": 1
+    }
+  },
+  {
+    "id": "s145",
+    "teams": [
+      "t1"
+    ],
+    "day": 9,
+    "revenue_cents": 11000,
+    "refund_cents": 0,
+    "shares": {
+      "t1": 1
+    }
+  },
+  {
+    "id": "s146",
+    "teams": [
+      "t2"
+    ],
+    "day": 9,
+    "revenue_cents": 12000,
+    "refund_cents": 0,
+    "shares": {
+      "t2": 1
+    }
+  },
+  {
+    "id": "s147",
+    "teams": [
+      "t3"
+    ],
+    "day": 9,
+    "revenue_cents": 13000,
+    "refund_cents": 0,
+    "shares": {
+      "t3": 1
+    }
+  },
+  {
+    "id": "s148",
+    "teams": [
+      "t4"
+    ],
+    "day": 9,
+    "revenue_cents": 14000,
+    "refund_cents": 0,
+    "shares": {
+      "t4": 1
+    }
+  },
+  {
+    "id": "s149",
+    "teams": [
+      "t5"
+    ],
+    "day": 9,
+    "revenue_cents": 15000,
+    "refund_cents": 0,
+    "shares": {
+      "t5": 1
+    }
+  },
+  {
+    "id": "s150",
+    "teams": [
+      "t6"
+    ],
+    "day": 39,
+    "revenue_cents": 16000,
+    "refund_cents": 0,
+    "shares": {
+      "t6": 1
+    }
+  },
+  {
+    "id": "s151",
+    "teams": [
+      "t7"
+    ],
+    "day": 39,
+    "revenue_cents": 17000,
+    "refund_cents": 0,
+    "shares": {
+      "t7": 1
+    }
+  },
+  {
+    "id": "s152",
+    "teams": [
+      "t8"
+    ],
+    "day": 39,
+    "revenue_cents": 18000,
+    "refund_cents": 0,
+    "shares": {
+      "t8": 1
+    }
+  },
+  {
+    "id": "s153",
+    "teams": [
+      "t9"
+    ],
+    "day": 39,
+    "revenue_cents": 10000,
+    "refund_cents": 0,
+    "shares": {
+      "t9": 1
+    }
+  },
+  {
+    "id": "s154",
+    "teams": [
+      "t10"
+    ],
+    "day": 39,
+    "revenue_cents": 11000,
+    "refund_cents": 0,
+    "shares": {
+      "t10": 1
+    }
+  },
+  {
+    "id": "s155",
+    "teams": [
+      "t11"
+    ],
+    "day": 39,
+    "revenue_cents": 12000,
+    "refund_cents": 0,
+    "shares": {
+      "t11": 1
+    }
+  },
+  {
+    "id": "s156",
+    "teams": [
+      "t12"
+    ],
+    "day": 69,
+    "revenue_cents": 13000,
+    "refund_cents": 0,
+    "shares": {
+      "t12": 1
+    }
+  },
+  {
+    "id": "s157",
+    "teams": [
+      "t13"
+    ],
+    "day": 69,
+    "revenue_cents": 14000,
+    "refund_cents": 0,
+    "shares": {
+      "t13": 1
+    }
+  },
+  {
+    "id": "s158",
+    "teams": [
+      "t14"
+    ],
+    "day": 69,
+    "revenue_cents": 15000,
+    "refund_cents": 0,
+    "shares": {
+      "t14": 1
+    }
+  },
+  {
+    "id": "s159",
+    "teams": [
+      "t15"
+    ],
+    "day": 69,
+    "revenue_cents": 16000,
+    "refund_cents": 0,
+    "shares": {
+      "t15": 1
+    }
+  },
+  {
+    "id": "s160",
+    "teams": [
+      "t16"
+    ],
+    "day": 69,
+    "revenue_cents": 17000,
+    "refund_cents": 0,
+    "shares": {
+      "t16": 1
+    }
+  },
+  {
+    "id": "s161",
+    "teams": [
+      "t17"
+    ],
+    "day": 69,
+    "revenue_cents": 18000,
+    "refund_cents": 0,
+    "shares": {
+      "t17": 1
+    }
+  },
+  {
+    "id": "s162",
+    "teams": [
+      "t18"
+    ],
+    "day": 99,
+    "revenue_cents": 10000,
+    "refund_cents": 0,
+    "shares": {
+      "t18": 1
+    }
+  },
+  {
+    "id": "s163",
+    "teams": [
+      "t19"
+    ],
+    "day": 99,
+    "revenue_cents": 11000,
+    "refund_cents": 0,
+    "shares": {
+      "t19": 1
+    }
+  },
+  {
+    "id": "s164",
+    "teams": [
+      "t20"
+    ],
+    "day": 99,
+    "revenue_cents": 12000,
+    "refund_cents": 0,
+    "shares": {
+      "t20": 1
+    }
+  },
+  {
+    "id": "s165",
+    "teams": [
+      "t21"
+    ],
+    "day": 99,
+    "revenue_cents": 13000,
+    "refund_cents": 0,
+    "shares": {
+      "t21": 1
+    }
+  },
+  {
+    "id": "s166",
+    "teams": [
+      "t22"
+    ],
+    "day": 99,
+    "revenue_cents": 14000,
+    "refund_cents": 0,
+    "shares": {
+      "t22": 1
+    }
+  },
+  {
+    "id": "s167",
+    "teams": [
+      "t23"
+    ],
+    "day": 99,
+    "revenue_cents": 15000,
+    "refund_cents": 0,
+    "shares": {
+      "t23": 1
+    }
+  },
+  {
+    "id": "s168",
+    "teams": [
+      "t24"
+    ],
+    "day": 129,
+    "revenue_cents": 16000,
+    "refund_cents": 0,
+    "shares": {
+      "t24": 1
+    }
+  },
+  {
+    "id": "s169",
+    "teams": [
+      "t25"
+    ],
+    "day": 129,
+    "revenue_cents": 17000,
+    "refund_cents": 0,
+    "shares": {
+      "t25": 1
+    }
+  },
+  {
+    "id": "s170",
+    "teams": [
+      "t26"
+    ],
+    "day": 129,
+    "revenue_cents": 18000,
+    "refund_cents": 0,
+    "shares": {
+      "t26": 1
+    }
+  },
+  {
+    "id": "s171",
+    "teams": [
+      "t27"
+    ],
+    "day": 129,
+    "revenue_cents": 10000,
+    "refund_cents": 0,
+    "shares": {
+      "t27": 1
+    }
+  },
+  {
+    "id": "s172",
+    "teams": [
+      "t28"
+    ],
+    "day": 129,
+    "revenue_cents": 11000,
+    "refund_cents": 0,
+    "shares": {
+      "t28": 1
+    }
+  },
+  {
+    "id": "s173",
+    "teams": [
+      "t29"
+    ],
+    "day": 129,
+    "revenue_cents": 12000,
+    "refund_cents": 0,
+    "shares": {
+      "t29": 1
+    }
+  },
+  {
+    "id": "s174",
+    "teams": [
+      "t30"
+    ],
+    "day": 159,
+    "revenue_cents": 13000,
+    "refund_cents": 0,
+    "shares": {
+      "t30": 1
+    }
+  },
+  {
+    "id": "s175",
+    "teams": [
+      "t31"
+    ],
+    "day": 159,
+    "revenue_cents": 14000,
+    "refund_cents": 0,
+    "shares": {
+      "t31": 1
+    }
+  },
+  {
+    "id": "s176",
+    "teams": [
+      "t32"
+    ],
+    "day": 159,
+    "revenue_cents": 15000,
+    "refund_cents": 0,
+    "shares": {
+      "t32": 1
+    }
+  },
+  {
+    "id": "s177",
+    "teams": [
+      "t33"
+    ],
+    "day": 159,
+    "revenue_cents": 16000,
+    "refund_cents": 0,
+    "shares": {
+      "t33": 1
+    }
+  },
+  {
+    "id": "s178",
+    "teams": [
+      "t34"
+    ],
+    "day": 159,
+    "revenue_cents": 17000,
+    "refund_cents": 0,
+    "shares": {
+      "t34": 1
+    }
+  },
+  {
+    "id": "s179",
+    "teams": [
+      "t35"
+    ],
+    "day": 159,
+    "revenue_cents": 18000,
+    "refund_cents": 0,
+    "shares": {
+      "t35": 1
+    }
+  },
+  {
+    "id": "joint",
+    "teams": [
+      "t0",
+      "t1"
+    ],
+    "day": 20,
+    "revenue_cents": 60000,
+    "refund_cents": 0,
+    "shares": {
+      "t0": 0.6,
+      "t1": 0.4
+    }
+  }
+]

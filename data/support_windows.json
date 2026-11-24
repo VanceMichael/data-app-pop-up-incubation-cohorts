@@ -1,0 +1,34 @@
+[
+  {
+    "id": "w1",
+    "kind": "空间",
+    "start": 60,
+    "end": 88,
+    "capacity": 1,
+    "mode": "实体"
+  },
+  {
+    "id": "w2",
+    "kind": "空间",
+    "start": 82,
+    "end": 88,
+    "capacity": 1,
+    "mode": "实体"
+  },
+  {
+    "id": "w3",
+    "kind": "导师",
+    "start": 60,
+    "end": 90,
+    "capacity": 2,
+    "mode": "全部"
+  },
+  {
+    "id": "w4",
+    "kind": "补助",
+    "start": 60,
+    "end": 90,
+    "capacity": 1,
+    "mode": "全部"
+  }
+]

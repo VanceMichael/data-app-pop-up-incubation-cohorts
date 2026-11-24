@@ -1,0 +1,308 @@
+{
+  "format_version": 1,
+  "synthetic": true,
+  "tables": {
+    "teams": {
+      "description": "招募前基础，团队与品牌不是同一实体",
+      "columns": {
+        "id": {
+          "type": "string",
+          "description": "团队"
+        },
+        "cohort": {
+          "type": "integer",
+          "description": "招募期"
+        },
+        "prior_mode": {
+          "type": "string",
+          "description": "经营基础"
+        },
+        "prior_customers": {
+          "type": "integer",
+          "description": "招募前有效客户"
+        },
+        "capital_cents": {
+          "type": "integer",
+          "description": "核实资金"
+        }
+      },
+      "refs": {}
+    },
+    "brands": {
+      "description": "品牌归属允许改变",
+      "columns": {
+        "id": {
+          "type": "string",
+          "description": "归属"
+        },
+        "brand": {
+          "type": "string",
+          "description": "品牌"
+        },
+        "team": {
+          "type": "string",
+          "description": "团队"
+        },
+        "start": {
+          "type": "integer",
+          "description": "起日"
+        },
+        "end": {
+          "type": "integer",
+          "description": "止日"
+        }
+      },
+      "refs": {
+        "team": "teams.id"
+      }
+    },
+    "admissions": {
+      "description": "获准队列不因未实际参加而消失",
+      "columns": {
+        "id": {
+          "type": "string",
+          "description": "获准"
+        },
+        "team": {
+          "type": "string",
+          "description": "团队"
+        },
+        "start": {
+          "type": "integer",
+          "description": "原计划起"
+        },
+        "end": {
+          "type": "integer",
+          "description": "原计划止"
+        },
+        "actual_start": {
+          "type": "integer",
+          "description": "实际起，负一未到"
+        },
+        "actual_end": {
+          "type": "integer",
+          "description": "实际止，负一未到"
+        },
+        "notified": {
+          "type": "boolean",
+          "description": "已通知"
+        }
+      },
+      "refs": {
+        "team": "teams.id"
+      }
+    },
+    "sales": {
+      "description": "合办收入仅一份，归属份额需核实",
+      "columns": {
+        "id": {
+          "type": "string",
+          "description": "交易"
+        },
+        "teams": {
+          "type": "array",
+          "description": "合办团队"
+        },
+        "day": {
+          "type": "integer",
+          "description": "日序"
+        },
+        "revenue_cents": {
+          "type": "integer",
+          "description": "收入"
+        },
+        "refund_cents": {
+          "type": "integer",
+          "description": "已知退款"
+        },
+        "shares": {
+          "type": "object",
+          "description": "已核实份额"
+        }
+      },
+      "refs": {}
+    },
+    "costs": {
+      "description": "公共空间成本和独立费用",
+      "columns": {
+        "id": {
+          "type": "string",
+          "description": "费用"
+        },
+        "admission": {
+          "type": "string",
+          "description": "获准"
+        },
+        "kind": {
+          "type": "string",
+          "description": "公共空间或直接"
+        },
+        "amount_cents": {
+          "type": "integer",
+          "description": "金额"
+        }
+      },
+      "refs": {
+        "admission": "admissions.id"
+      }
+    },
+    "followups": {
+      "description": "竞争去向与失联；不能把退出当仍在筹备",
+      "columns": {
+        "id": {
+          "type": "string",
+          "description": "回访"
+        },
+        "team": {
+          "type": "string",
+          "description": "团队"
+        },
+        "day": {
+          "type": "integer",
+          "description": "实际日"
+        },
+        "known_day": {
+          "type": "integer",
+          "description": "知悉日"
+        },
+        "state": {
+          "type": "string",
+          "description": "稳定实体或线上或筹备或退出或失联或未到期"
+        }
+      },
+      "refs": {
+        "team": "teams.id"
+      }
+    },
+    "mentor_reviews": {
+      "description": "导师针对经营模式的证据范围",
+      "columns": {
+        "id": {
+          "type": "string",
+          "description": "意见"
+        },
+        "team": {
+          "type": "string",
+          "description": "团队"
+        },
+        "mode": {
+          "type": "string",
+          "description": "模式"
+        },
+        "finding": {
+          "type": "string",
+          "description": "核实意见"
+        },
+        "known_day": {
+          "type": "integer",
+          "description": "知悉日"
+        }
+      },
+      "refs": {
+        "team": "teams.id"
+      }
+    },
+    "support_windows": {
+      "description": "支持种类不同且可组合",
+      "columns": {
+        "id": {
+          "type": "string",
+          "description": "窗口"
+        },
+        "kind": {
+          "type": "string",
+          "description": "空间或导师或补助"
+        },
+        "start": {
+          "type": "integer",
+          "description": "起"
+        },
+        "end": {
+          "type": "integer",
+          "description": "止"
+        },
+        "capacity": {
+          "type": "integer",
+          "description": "可支持团队数"
+        },
+        "mode": {
+          "type": "string",
+          "description": "适用模式"
+        }
+      },
+      "refs": {}
+    },
+    "confirmed_support": {
+      "description": "已有通知占用实际窗口",
+      "columns": {
+        "id": {
+          "type": "string",
+          "description": "支持"
+        },
+        "team": {
+          "type": "string",
+          "description": "团队"
+        },
+        "windows": {
+          "type": "array",
+          "description": "占用窗口"
+        },
+        "state": {
+          "type": "string",
+          "description": "已通知或退出"
+        },
+        "known_day": {
+          "type": "integer",
+          "description": "知悉日"
+        }
+      },
+      "refs": {
+        "team": "teams.id"
+      }
+    },
+    "late_facts": {
+      "description": "后续退款与追访证据",
+      "columns": {
+        "id": {
+          "type": "string",
+          "description": "补证"
+        },
+        "target": {
+          "type": "string",
+          "description": "目标"
+        },
+        "finding": {
+          "type": "string",
+          "description": "内容"
+        },
+        "known_day": {
+          "type": "integer",
+          "description": "知悉日"
+        }
+      },
+      "refs": {}
+    },
+    "rules": {
+      "description": "试营和公开成效约定",
+      "columns": {
+        "id": {
+          "type": "string",
+          "description": "配置"
+        },
+        "minimum_trial_days": {
+          "type": "integer",
+          "description": "完整试营天"
+        },
+        "followup_days": {
+          "type": "integer",
+          "description": "成熟回访天"
+        },
+        "public_min_teams": {
+          "type": "integer",
+          "description": "公开最低队数"
+        }
+      },
+      "refs": {}
+    }
+  }
+}

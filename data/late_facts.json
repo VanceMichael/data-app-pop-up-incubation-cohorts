@@ -1,0 +1,14 @@
+[
+  {
+    "id": "l1",
+    "target": "joint",
+    "finding": "退款20000分，归属仍按已核份额",
+    "known_day": 50
+  },
+  {
+    "id": "l2",
+    "target": "f4",
+    "finding": "已联系，实际于65日退出",
+    "known_day": 90
+  }
+]

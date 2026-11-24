@@ -1,0 +1,22 @@
+[
+  {
+    "id": "cs1",
+    "team": "t2",
+    "windows": [
+      "w1",
+      "w3"
+    ],
+    "state": "已通知",
+    "known_day": 40
+  },
+  {
+    "id": "cs2",
+    "team": "t2",
+    "windows": [
+      "w1",
+      "w3"
+    ],
+    "state": "退出",
+    "known_day": 81
+  }
+]
